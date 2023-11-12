@@ -2,3 +2,6 @@ SESI
 
 ini sesi 1
 disini gua lagi buat file txt di github
+
+ini sesi 2
+disini gua lagi buat branch
